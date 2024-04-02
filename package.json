@@ -1,0 +1,14 @@
+{
+    "name": "EcoSphere ",
+    "version": "1.0.0",
+    "description": "E-commerce Flask application",
+    "main": "main.py",
+    "scripts": {
+      "start": "python main.py"
+    },
+    "dependencies": {
+      "flask": "^2.0.0",
+      "sqlite3": "^5.0.0"
+    }
+  }
+  
